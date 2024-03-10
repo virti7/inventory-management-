@@ -1,0 +1,8 @@
+ 1 Bag 800 20
+ 2 Jam 200 18
+ 3 Apple 220 15
+ 4 Bread 60 10
+ 5 Cereal 300 25
+ 6 cheese 150 18
+ 8 tea 250 3
+ 57 nuts 50 2 
